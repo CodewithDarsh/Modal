@@ -1,4 +1,4 @@
-# Modal #Note:-this project is ment for learing the JavaScript and its concepts.
+# Modal #Note:-this project is meant for learing the JavaScript and its concepts.
 The provided code is a JavaScript snippet for handling the functionality of a modal (popup) window in a web page. Here's a description of what this code does:
 
 Description:
